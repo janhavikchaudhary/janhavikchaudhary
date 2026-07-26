@@ -11,16 +11,14 @@
 
 ## About
 
-I make small, sharp things that actually work. Not trying to over-engineer the whole universe, bas useful hona chahiye and vibe bhi aani chahiye.
-
-Currently building **Ofwa**, an AI-powered Discord moderation bot that understands context instead of doing keyword-level panic. Clean product thinking, fast shipping, thoda Delhi confidence, thoda Gen Z chaos.
+I do what gives me me vibes, heheheheheh.
 
 ```txt
 name                      : Janhavi Chaudhary
 also known as             : Egress
 gud thing that i can show : Ofwa
 operating on              : momos, caffeine, and "ho jayega" energy
-style                     :  boring never
+style                     : boring never
 ```
 
 ---
