@@ -1,8 +1,6 @@
 <div align="center">
 
-# JanhaviKChaudhary
-
-### aka Egress
+# egress
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=650&color=111827&center=true&vCenter=true&width=760&lines=building+things+that+look+simple+but+go+hard;python+discord+ai+railway+and+thoda+sa+jugaad;delhi+genz+energy+with+clean+execution;minimal+interface+max+impact" alt="Typing SVG" />
 
