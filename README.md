@@ -2,7 +2,7 @@
 
 # egress
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=4400&pause=850&color=4be2d3&center=true&vCenter=true&width=760&lines=not+taking+the+accountability+of+the+errors+raised+by;my+code,+cause+i+am+a+modih+sapoter;i+js+try+to+act+cool;for+no+good+reason" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3400&pause=650&color=4be2d3&center=true&vCenter=true&width=760&lines=not+taking+the+accountability+of+the+errors+raised+by+my+code,+cause+i+am+a+modih+sapoter;i+js+try+to+act+cool+for+no+good+reason" alt="Typing SVG" />
 
 
 </div>
