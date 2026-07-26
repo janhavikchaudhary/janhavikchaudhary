@@ -86,8 +86,7 @@ Diva bot, hehe.
 
 <div align="center">
 
-### building useful things, keeping it clean, and not making the README look like a mela
 
-<sub>Python backend. Discord bots. AI features. Simple products. Full main-character energy.</sub>
+<sub>See how I didn't call myself a dev.</sub>
 
 </div>
