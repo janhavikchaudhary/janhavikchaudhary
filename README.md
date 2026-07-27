@@ -44,7 +44,7 @@ Diva bot, hehe.
 
 ### Build philosophy
 
-something i do
+Something i do
 
 - breath
 - eat
