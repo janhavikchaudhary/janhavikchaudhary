@@ -33,16 +33,18 @@ style                     : boring never
 
 Diva bot, hehe.
 
-- warns users and escalates moderation actions
-- reviews messages against server rules using Groq
-- answers server questions through `/ask`
-- purges mess, logs events, and respects role context
-- keeps moderation practical instead of performative
+- does something cool
+- talks as a friend
+- /ask command
+- purges
+- moderation obv
 
 </td>
 <td width="50%">
 
 ### Build philosophy
+
+something i do
 
 - breath
 - eat
