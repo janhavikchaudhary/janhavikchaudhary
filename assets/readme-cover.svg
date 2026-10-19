@@ -1,0 +1,32 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="430" rx="28" fill="#F4F0E6"/>
+  <path d="M0 88H1200" stroke="#17181C" stroke-opacity=".16"/>
+  <path d="M0 342H1200" stroke="#17181C" stroke-opacity=".16"/>
+  <path d="M925 0V430" stroke="#17181C" stroke-opacity=".16"/>
+
+  <circle cx="1056" cy="214" r="95" fill="#FF7356"/>
+  <circle cx="1056" cy="214" r="121" stroke="#17181C" stroke-width="2" stroke-dasharray="6 9"/>
+  <path d="M994 230C1014 172 1075 153 1114 189C1144 216 1129 267 1088 274C1047 282 1027 238 1048 208C1063 187 1093 190 1098 211C1103 231 1078 241 1067 226" stroke="#17181C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1100 198L1116 188L1118 207" stroke="#17181C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="66" y="51" width="164" height="34" rx="17" fill="#C8F06A"/>
+  <text x="148" y="73" text-anchor="middle" fill="#17181C" font-family="monospace" font-size="13" letter-spacing="1.4">INTERNET FIELD NOTES</text>
+
+  <text x="66" y="177" fill="#17181C" font-family="Georgia, serif" font-size="76" font-weight="700" letter-spacing="-3">Janhavi</text>
+  <text x="66" y="256" fill="#FF7356" font-family="Georgia, serif" font-size="76" font-weight="700" font-style="italic" letter-spacing="-3">/ egress</text>
+
+  <text x="69" y="307" fill="#54545B" font-family="monospace" font-size="16" letter-spacing=".8">STUDENT · CREATOR · DEVELOPER IN THE MAKING</text>
+
+  <text x="68" y="383" fill="#17181C" font-family="monospace" font-size="13">ISSUE № 001</text>
+  <text x="286" y="383" fill="#17181C" font-family="monospace" font-size="13">STATUS: FIGURING IT OUT</text>
+  <text x="647" y="383" fill="#17181C" font-family="monospace" font-size="13">BASED ON THE INTERNET</text>
+
+  <path d="M784 72C830 51 871 56 904 78" stroke="#7C91F7" stroke-width="4" stroke-linecap="round"/>
+  <path d="M894 68L906 78L891 86" stroke="#7C91F7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M752 282L760 300L779 305L763 316L764 336L749 323L730 329L738 311L727 295L747 297L752 282Z" fill="#C8F06A" stroke="#17181C" stroke-width="2"/>
+
+  <g transform="rotate(-8 1058 91)">
+    <rect x="973" y="67" width="170" height="48" rx="4" fill="#F4F0E6" stroke="#17181C" stroke-width="2"/>
+    <text x="1058" y="97" text-anchor="middle" fill="#17181C" font-family="monospace" font-weight="700" font-size="14" letter-spacing="1">CURIOUS HUMAN</text>
+  </g>
+</svg>
